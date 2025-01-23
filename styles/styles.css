@@ -232,3 +232,7 @@ footer input[type="text"], footer input[type="email"], footer textarea{
     border-radius: 5px;
     border: none;
 }
+
+.im{
+    margin-right: 12px;
+}
